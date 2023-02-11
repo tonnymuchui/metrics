@@ -14,7 +14,7 @@ const Header = ({ path }) => (
           </svg>
         </NavLink>
         )}
-        <span className="date-no">2022</span>
+        <span className="date-no">2023</span>
       </li>
       <li className="stats-about">CryptoCurrencies</li>
       <li>

@@ -39,13 +39,13 @@ body {
   width: 450px;
   background-color: #2997e0;
   padding-bottom: 26px;
-  border: 3px solid #e05f09;
+  border: 3px solid white;
   border-radius: 10px;
 }
 
 @media (max-width: 600px) {
   .data-1 {
     width: calc(100vw - 38px);
-    margin: 1 auto;
+    margin: 1px auto;
   }
 }
