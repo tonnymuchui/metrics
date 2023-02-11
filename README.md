@@ -84,9 +84,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Not Available
+- [LiveDemo](https://bespoke-cassata-f52719.netlify.app/)
 
-<!-- - [Live Demo Link](https://yourdeployedapplicationlink.com) -->
+- [Vedio](https://www.loom.com/share/4907b20fd40b4d4b976e2019f3b77351)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
