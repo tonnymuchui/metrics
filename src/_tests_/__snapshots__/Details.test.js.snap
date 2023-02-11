@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details page check details elements 1`] = `
+<div
+  className="data-cont"
+>
+  <h3
+    className="coins-title"
+  >
+    Coin Description
+  </h3>
+  <ul
+    className="details-cont"
+  >
+    <li
+      className="details-light"
+    >
+      <span>
+        Name :
+      </span>
+      <span />
+    </li>
+    <li
+      className="details-dark"
+    >
+      <span>
+        Symbol :
+      </span>
+      <span />
+    </li>
+    <li
+      className="details-light"
+    >
+      <span>
+        Rank :
+      </span>
+      <span />
+    </li>
+    <li
+      className="details-dark"
+    >
+      <span>
+        Supply :
+      </span>
+      <span />
+    </li>
+    <li
+      className="details-light"
+    >
+      <span>
+        Market Capital(USD) :
+      </span>
+      <span />
+    </li>
+    <li
+      className="details-dark"
+    >
+      <span>
+        Volume(USD) 24Hrs :
+      </span>
+      <span />
+    </li>
+    <li
+      className="details-light"
+    >
+      <span>
+        Price(USD) :
+      </span>
+      <span />
+    </li>
+    <li
+      className="details-dark"
+    >
+      <span>
+        Change Percent(24Hr) :
+      </span>
+      <span />
+    </li>
+    <li
+      className="details-light"
+    >
+      <span>
+        VWAP(24Hr) :
+      </span>
+      <span />
+    </li>
+  </ul>
+</div>
+`;
