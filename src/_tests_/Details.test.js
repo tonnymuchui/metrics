@@ -9,7 +9,7 @@ const TestDetails = () => (
     <Router><Details /></Router>
   </Provider>
 );
-describe('Details page', () => {
+describe('Details', () => {
   it('check details elements', () => {
     const tree = renderer.create(<TestDetails />).toJSON();
     expect(tree).toMatchSnapshot();
