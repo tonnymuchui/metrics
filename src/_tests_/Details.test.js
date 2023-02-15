@@ -6,7 +6,7 @@ import store from '../redux/configureStore';
 
 const TestDetails = () => (
   <Provider store={store}>
-    <Router><Details/></Router>
+    <Router><Details /></Router>
   </Provider>
 );
 describe('Details page', () => {
