@@ -164,11 +164,10 @@ gh-pages
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👤 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Tonny Muchui**
 
 - GitHub: [@tonnymuchui](https://github.com/tonnymuchui)
 - Twitter: [@Tonnymuchui6](https://twitter.com/Tonnymuchui6)
@@ -203,29 +202,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank Microverse for their contributions.
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- FAQ (optional) -->
-
-<!-- ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- LICENSE -->
+Original design idea by [Nelson Sakwa](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)/modules/202742631>) in Behance.
 
 ## 📝 License <a name="license"></a>
 
