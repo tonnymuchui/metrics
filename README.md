@@ -86,7 +86,8 @@
 
 - [LiveDemo](https://bespoke-cassata-f52719.netlify.app/)
 
-- [Vedio](https://www.loom.com/share/4907b20fd40b4d4b976e2019f3b77351)
+- [Vedio one](https://www.loom.com/share/4907b20fd40b4d4b976e2019f3b77351)
+- [Vedio two](https://www.loom.com/share/13baf71328c8402f95b710d2badd6227)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
