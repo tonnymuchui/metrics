@@ -21,24 +21,24 @@ const Home = () => {
   return (
     <div data-testid="intro-page" className="data-1">
       <Header path="/" />
+      <input
+        className="coins-abt"
+        type="text"
+        value={search.get('filter') || ''}
+        placeholder="Search by Crypto name  eg : BNB"
+        onChange={(e) => {
+          const filter = e.target.value;
+          if (filter) {
+            setSearch({ filter });
+          } else {
+            setSearch({});
+          }
+        }}
+      />
       <Chart title1="Crypto" title2="Currencies" count={`${coins.length} Coins`} />
 
       <div>
 
-        <input
-          className="coins-abt"
-          type="text"
-          value={search.get('filter') || ''}
-          placeholder="Search by Crypto name  eg : BNB"
-          onChange={(e) => {
-            const filter = e.target.value;
-            if (filter) {
-              setSearch({ filter });
-            } else {
-              setSearch({});
-            }
-          }}
-        />
         <div className="coin-card-1">
           {coins
             .filter((coin) => {
