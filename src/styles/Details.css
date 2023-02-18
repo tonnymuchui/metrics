@@ -22,20 +22,28 @@
   font-weight: 580;
 }
 
-.details-abt li span:first-child {
-  color: rgb(230, 216, 216);
+.details-abt li span {
+  color: white;
 }
 
 .details-abts li span:last-child {
-  color: rgba(216, 202, 202, 0.9);
+  color: white;
 }
 
 .details-color-1 {
-  background-color: rgba(26, 25, 25, 0.02);
+  background-color: rgba(247, 201, 201, 0.02);
 }
 
 .details-color-2 {
-  background-color: rgba(14, 13, 13, 0.05);
+  background-color: rgba(43, 4, 4, 0.05);
+}
+
+.details-color-1 svg {
+  margin-left: -220px;
+}
+
+.details-color-2 svg {
+  margin-left: -220px;
 }
 
 @media (max-width: 600px) {

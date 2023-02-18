@@ -28,7 +28,7 @@
 
 .text-ch h2 {
   font-family: "Lato", sans-serif;
-  color: rgb(228, 216, 216);
+  color: white;
   font-size: 24px;
   font-weight: 580;
   text-transform: uppercase;
@@ -37,7 +37,7 @@
 
 .text-ch p {
   font-family: "Fira Sans", sans-serif;
-  color: #e7dcdc;
+  color: white;
   font-size: 16px;
   font-weight: 395;
   margin-top: 6px;

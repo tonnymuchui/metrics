@@ -4,14 +4,20 @@
   row-gap: 6px;
   padding: 12px;
   outline: none;
-  background-color: rgba(15, 15, 15, 0.05);
+  background-color: rgba(24, 23, 23, 0.05);
   border: 1px solid #e5e7e9;
   border-radius: 4px;
 }
 
 .coin-1 svg {
   margin-left: auto;
+  justify-content: right;
   cursor: pointer;
+}
+
+.coin-card svg {
+  justify-content: right;
+  margin-left: 80%;
 }
 
 .coin-1 h2 {
