@@ -1,0 +1,45 @@
+.nav-1 {
+  width: calc(100% - 24px);
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 12px;
+  padding-right: 12px;
+  background-color: rgba(32, 32, 32, 0.05);
+}
+
+.nav-1 ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-1 ul li {
+  display: flex;
+  align-items: center;
+  column-gap: 12px;
+  font-size: 22px;
+}
+
+.nav-1 ul li a {
+  height: 32px;
+  text-decoration: none;
+}
+
+.nav-1 ul li:last-child {
+  column-gap: 22px;
+}
+
+.nav-1 ul li svg {
+  cursor: pointer;
+}
+
+.date-no {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 580;
+  color: white;
+}
+
+.stats-about {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 580;
+  color: white;
+}

@@ -1,0 +1,73 @@
+.details-abt {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 6px;
+  padding-right: 6px;
+  height: calc(100vh - 20rem);
+  overflow: auto;
+}
+
+.details-abt li {
+  list-style: none;
+  height: 68px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 8px;
+  padding-right: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  font-weight: 580;
+}
+
+.details-abt li span {
+  color: white;
+}
+
+.details-abts li span:last-child {
+  color: white;
+}
+
+.details-color-1 {
+  background-color: rgba(247, 201, 201, 0.02);
+}
+
+.details-color-2 {
+  background-color: rgba(43, 4, 4, 0.05);
+}
+
+.details-color-1 svg {
+  margin-left: -220px;
+}
+
+.details-color-2 svg {
+  margin-left: -220px;
+}
+
+.details-svg svg {
+  margin-left: -40px;
+}
+
+@media (max-width: 600px) {
+  .details-abt {
+    height: 310px;
+  }
+
+  .coins-abt {
+    width: calc(100% - 38px);
+    font-size: 16px;
+    font-weight: 480;
+  }
+
+  .details-cont li {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 380px) {
+  .details-cont li {
+    font-size: 14px;
+  }
+}
