@@ -46,6 +46,10 @@
   margin-left: -220px;
 }
 
+.details-svg svg {
+  margin-left: -40px;
+}
+
 @media (max-width: 600px) {
   .details-abt {
     height: 310px;
